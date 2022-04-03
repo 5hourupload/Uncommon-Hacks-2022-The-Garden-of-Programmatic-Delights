@@ -1,0 +1,11 @@
+Model Information:
+* title:	Perry The Platypus
+* source:	https://sketchfab.com/3d-models/perry-the-platypus-665950e108364185ad45c22ecd554dec
+* author:	EMJ (https://sketchfab.com/esmuji)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Perry The Platypus" (https://sketchfab.com/3d-models/perry-the-platypus-665950e108364185ad45c22ecd554dec) by EMJ (https://sketchfab.com/esmuji) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 62
+  controlID: 135
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -395,9 +395,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 46760000
-      m_LastClickedID: 30278
-      m_ExpandedIDs: 6efbffff
+      m_SelectedIDs: f65bfdff
+      m_LastClickedID: -173066
+      m_ExpandedIDs: 4a67fdff4e67fdff5a67fdff6867fdff6c67fdff7067fdff7667fdffcec7fdffd0c7fdff2ac9fdff2ec9fdff8681feff8a81feff8e81feff9481feffd08dfeffda29fffff029fffff429fffffc29ffff062affff0a2affff0e2affff142affffcc7effff8080ffffa280ffffa680ffffaa80ffffb080ffffce9fffffda9fffff92a1ffffead0ffff86daffff8cdaffff6efbffff50ab0000d8ab00004eac000012ad0000e2b0000004b1000010b10000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -457,9 +457,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.718, y: 0.429, z: 0.625}
+    m_Target: {x: 15.425622, y: -1.9143867, z: 125.62826}
     speed: 2
-    m_Value: {x: 0.718, y: 0.429, z: 0.625}
+    m_Value: {x: 15.425622, y: -1.9143867, z: 125.62826}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -505,13 +505,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.02608019, y: 0.93484294, z: -0.07024506, w: 0.3470824}
+    m_Target: {x: 0.0035959291, y: 0.0647497, z: 0.00018178116, w: -0.99792594}
     speed: 2
-    m_Value: {x: 0.026080035, y: 0.9348374, z: -0.07024464, w: 0.34708035}
+    m_Value: {x: 0.0035958185, y: 0.06474771, z: 0.00018177557, w: -0.99789524}
   m_Size:
-    m_Target: 0.94357526
+    m_Target: 129.93533
     speed: 2
-    m_Value: 0.94357526
+    m_Value: 129.93533
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -601,20 +601,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scene
+    - Assets/Import
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scene
+  - Assets/Import/Ship_in_Clouds
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\alans\Documents\uncommon_hacks
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 186}
-    m_SelectedIDs: 2a4a0000
-    m_LastClickedID: 18986
-    m_ExpandedIDs: 00000000e24500002a4a0000864b0000624e0000804e00007a4f0000be4f0000d26200001a630000606800006a690000b0a30000b2a30000b4a30000b6a30000b8a30000baa3000000ca9a3b
+    scrollPos: {x: 0, y: 158}
+    m_SelectedIDs: be640000
+    m_LastClickedID: 25790
+    m_ExpandedIDs: 00000000e24500002a4a0000204b0000864b0000664c0000624e0000804e00003e4f00007a4f0000be4f00001a57000016620000d26200001a630000be640000606800006a690000566b0000826b0000e26b0000b0a30000b2a30000b4a30000b6a30000b8a30000baa3000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

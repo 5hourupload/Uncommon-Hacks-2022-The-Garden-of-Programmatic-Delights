@@ -16,7 +16,7 @@ public class BallSpinner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        angle += .05f;
+        angle -= .01f;
         float x = Mathf.Cos(angle) * radius;
         float y = Mathf.Sin(angle) * radius;
 

@@ -26,7 +26,7 @@ public class CubeSpawner : MonoBehaviour
 
         if (active)
         {
-            if ((Time.time - spawnTime) > .1f)
+            if ((Time.time - spawnTime) > .2f)
             {
                 Debug.Log(Time.time);
 

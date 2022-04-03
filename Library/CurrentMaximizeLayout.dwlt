@@ -21,8 +21,8 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 578, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 579, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: -1
 --- !u!114 &2
@@ -224,7 +224,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6efbffff
+      m_ExpandedIDs: 4649f3fffcc1f5ff00c2f5ff04c2f5ff08c2f5ff0ec2f5ff3ac2f5ff6ac2f5ff6ec2f5ff72c2f5ff76c2f5ff7cc2f5ffbcc2f5ffd8c2f5ffdcc2f5ffe0c2f5ffe4c2f5ffeac2f5ff2ac3f5ff46c3f5ff4ac3f5ff4ec3f5ff52c3f5ff58c3f5ff98c3f5ffb4c3f5ffb8c3f5ffbcc3f5ffc0c3f5ffc6c3f5ff06c4f5ff22c4f5ff26c4f5ff2ac4f5ff2ec4f5ff34c4f5ff60c4f5ff74c4f5ff90c4f5ff94c4f5ff98c4f5ff9cc4f5ffa2c4f5ffcec4f5ffe2c4f5fffec4f5ff02c5f5ff06c5f5ff0ac5f5ff10c5f5ff9eccf5ffbaccf5ffbeccf5ffc2ccf5ffc6ccf5ffccccf5ff28cdf5ff2ccdf5ff30cdf5ff34cdf5ff3acdf5ff06d1f5ff0ad1f5ff0ed1f5ff12d1f5ff18d1f5ff58d1f5ff78d1f5ff7cd1f5ff80d1f5ff86d1f5ff24d8f5ff54d8f5ff58d8f5ff5cd8f5ff60d8f5ff66d8f5ff5680f8ff6c80f8ff2aa1f8ff2ea1f8ff3aa1f8ff4aa1f8ff4ea1f8ff52a1f8ffeabfffffeebfffff7eceffff86ceffff62d1ffff82dcffff86dcffff8edcffff92dcffff96dcffffa4dcffffa8dcffffacdcffffc4deffffd4deffffdadeffffdedeffffe2deffffe6deffffeadefffff0defffff4defffff8deffffc6faffff667c0000887c0000947c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -312,9 +312,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.066152476, y: 0.9327465, z: 0.3637514}
+    m_Target: {x: -0.2543043, y: 0.4966926, z: 0.23914568}
     speed: 2
-    m_Value: {x: -0.066152476, y: 0.9327465, z: 0.3637514}
+    m_Value: {x: -0.2543043, y: 0.4966926, z: 0.23914568}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -360,13 +360,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2204209, y: 0.32224065, z: -0.07742807, w: 0.9173945}
+    m_Target: {x: -0.018799238, y: -0.9736413, z: 0.08576085, w: -0.21110055}
     speed: 2
-    m_Value: {x: 0.22041735, y: 0.32223547, z: -0.07742683, w: 0.91737974}
+    m_Value: {x: -0.018796897, y: -0.97352, z: 0.08575016, w: -0.21107425}
   m_Size:
-    m_Target: 1.2610158
+    m_Target: 10
     speed: 2
-    m_Value: 1.2610158
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -484,20 +484,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
-  m_StartGridSize: 78
+  m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_TerrainAutoUpgrade
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\alans\Documents\uncommon_hacks
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b0450000
-    m_LastClickedID: 17840
-    m_ExpandedIDs: 00000000b0450000c2490000104b0000de4d0000fa4d0000e64e00002a4f0000d65700001e580000265d0000fcad0000fead000000ae000002ae000004ae000006ae000000ca9a3b
+    scrollPos: {x: 0, y: 634}
+    m_SelectedIDs: f24f0000
+    m_LastClickedID: 20466
+    m_ExpandedIDs: 0000000020460000844a0000824b0000e84b0000d04c0000d24e0000f04e0000b24f0000f24f000036500000945700009c6200005c630000a463000006690000146a00000a6c0000386c00009c6c000030a6000032a6000034a6000036a6000038a600003aa6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b0450000c2490000104b0000de4d0000fa4d0000e64e00002a4f0000d65700001e580000265d0000fcad0000fead000000ae000002ae000004ae000006ae0000
+    m_ExpandedIDs: 0000000020460000844a0000824b0000e84b0000d04c0000d24e0000f04e0000b24f0000f24f000036500000945700009c6200005c630000a463000006690000146a00000a6c0000386c00009c6c000030a6000032a6000034a6000036a6000038a600003aa6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -578,7 +578,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 78
+    m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 276
 --- !u!114 &12
@@ -744,8 +744,8 @@ MonoBehaviour:
     y: 0
     width: 478
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
